@@ -58,8 +58,8 @@
 
 <div align="center">
  
-![Pramodh's github stats](https://github-readme-stats.vercel.app/api?username=pramodhm112&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodhm112&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Sukruth M'S github stats](https://github-readme-stats.vercel.app/api?username=sukruth-gms&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukruth-gms&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
