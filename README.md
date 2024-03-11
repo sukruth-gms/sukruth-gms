@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on GtiHub Enterprise, Atlassian Stack of Tools, Docker, Maven, Jenkins Azure DevOps, Shell Scripting, API's
 - 🌱 I’m currently learning Kubernetes,Ansible,Terraform
-- 👯 I’m looking to collaborate on ELK Stack, Prometheus
+- 👯 I’m looking to collaborate on GitOps, ArgoCD, Prometheus
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about GitHub, Atlassian, Jenkins, Docker, Azure DevOps, API's
 - 📫 How to reach me: 👉 [📧](https://github.com/sukruth-gms/sukruth-gms/issues)
